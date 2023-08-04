@@ -8,7 +8,7 @@ NBA Regression
 
 This project aims to predict whether NBA players will be selected as All-Stars based on historical NBA statistics and All-Star team selection data. It utilizes machine learning algorithms, data cleaning techniques, feature selection, and visualization to build a predictive model for identifying potential All-Stars in the NBA.
 
-## Requirements
+## Packages
 
 Before running the code, you need to have the following Python libraries installed:
 
