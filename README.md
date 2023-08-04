@@ -22,7 +22,6 @@ Before running the code, you need to have the following Python libraries install
 
 You can install these libraries using pip:
 
-````
 
 ## Dataset
 
