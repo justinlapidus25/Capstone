@@ -22,9 +22,7 @@ Before running the code, you need to have the following Python libraries install
 
 You can install these libraries using pip:
 
-```bash
-pip install pandas seaborn numpy matplotlib scikit-learn imbalanced-learn xgboost
-```
+````
 
 ## Dataset
 
@@ -61,6 +59,7 @@ The code performs the following steps to predict All-Star selections:
 To better understand the data and model performance, the code includes several visualizations:
 
 1. Heatmap: A heatmap is used to visualize the top 15 columns with the highest correlation to the target variable "Was_Allstar."
+![capstone 5](https://github.com/justinlapidus25/Capstone/assets/130884190/ffcff92a-7451-42cd-9fac-a48ae7b92b15)
 
 2. Confusion Matrix: Confusion matrices are plotted to visualize the model's performance in predicting All-Star selections.
 
